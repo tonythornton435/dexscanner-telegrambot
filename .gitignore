@@ -1,0 +1,10 @@
+node_modules
+.history
+*.log
+.env
+package-lock.json
+build
+coverage
+.vscode
+.yalc
+yalc.lock
